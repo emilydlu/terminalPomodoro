@@ -1,0 +1,14 @@
+{
+  "name": "pomodoro",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha",
+    "start": "node pomodoro.js"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "timrjs": "^1.0.1"
+  }
+}
